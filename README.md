@@ -15,7 +15,6 @@ It automatically detects, scans, and saves documents or codes with precision —
 
 - 🐍 **Python** — Core programming language  
 - 🧩 **OpenCV** — For real-time image & document detection  
-- 🪟 **Tkinter** — For interactive GUI  
 - 🧠 **NumPy** — For image processing operations  
 
 ---
