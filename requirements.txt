@@ -1,0 +1,3 @@
+opencv-python
+pyzbar
+mysql-connector-python
