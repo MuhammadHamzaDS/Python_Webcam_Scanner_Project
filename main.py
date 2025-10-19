@@ -50,4 +50,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 conn.close()
-print("👋 Scanner closed successfully.")
+print("👋 Scanner closed successfully.😊")
